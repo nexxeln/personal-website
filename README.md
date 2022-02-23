@@ -1,27 +1,17 @@
-# Next.js + Tailwind CSS Example
+## Information
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This website was made using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com). It is hosted on [Vercel](https://vercel.com/).
 
-## Preview
+## Inspiration and resources used
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+- [Max Mitchell's portfolio website](https://github.com/maxemitchell/portfolio)
+- My friends @Dhravya @astridlol @yoxenl
+- [DuckDuckGo](https://duckduckgo.com/)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+<br>
 
-## Deploy your own
+### If you see bugs, bad practices, or anything that can be improved, please let me know! I'm pretty new to web dev, this was my first real website, and I'm still learning. So feel free to open issues and submit pull requests.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+<br>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### If you're copying this website, just let me know.
