@@ -25,21 +25,18 @@ function Card() {
               href="https://discord.com/users/758578599715405824"
             >
               <FaDiscord />
-              <span class="sr-only">Discord</span>
             </a>
             <a
               className="m-1 rounded-full p-1 text-xl text-gray-800 transition-colors duration-300 hover:bg-gray-800 hover:text-white sm:m-2 sm:p-2"
               href="https://github.com/nexxeln"
             >
               <FaGithub />
-              <span class="sr-only">GitHub</span>
             </a>
             <a
               className="m-1 rounded-full p-1 text-xl text-blue-600 transition-colors duration-300 hover:bg-blue-600 hover:text-white sm:m-2 sm:p-2"
               href="mailto:shoubhit2005@gmail.com"
             >
               <FaEnvelope />
-              <span className="sr-only">Email</span>
             </a>
           </div>
         </div>
