@@ -5,7 +5,6 @@ import {
   SiNextdotjs,
   SiFastapi,
   SiMongodb,
-  SiVisualstudiocode,
   SiProcessingfoundation,
 } from 'react-icons/si'
 import { GrMysql } from 'react-icons/gr'
