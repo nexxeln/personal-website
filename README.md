@@ -10,8 +10,8 @@ This website was made using [Next.js](https://nextjs.org/) and [Tailwind CSS](ht
 
 <br>
 
-### If you see bugs, bad practices, or anything that can be improved, please let me know! I'm pretty new to web dev, this was my first real website, and I'm still learning. So feel free to open issues and submit pull requests.
+##### If you see bugs, bad practices, or anything that can be improved, please let me know! I'm pretty new to web dev, this was my first real website, and I'm still learning. So feel free to open issues and submit pull requests.
 
 <br>
 
-### If you're copying this website, just let me know.
+##### If you're copying this website, just let me know.
