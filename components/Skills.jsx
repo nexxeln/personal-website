@@ -1,7 +1,11 @@
 import React from 'react'
 import { FaReact, FaNodeJs, FaPython, FaRust } from 'react-icons/fa'
-import { SiTailwindcss, SiNextdotjs, SiMongodb } from 'react-icons/si'
-import { GrMysql } from 'react-icons/gr'
+import {
+  SiTailwindcss,
+  SiNextdotjs,
+  SiMongodb,
+  SiPostgresql,
+} from 'react-icons/si'
 import { DiGo } from 'react-icons/di'
 
 function Skills() {
@@ -40,8 +44,8 @@ function Skills() {
           <p className="mt-6 text-xl font-semibold text-center">Mongo DB</p>
         </div>
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
-          <GrMysql color="#00758f" className="mx-auto text-4xl " />
-          <p className="mt-6 text-xl font-semibold text-center">MySQL</p>
+          <SiPostgresql color="#326690" className="mx-auto text-4xl " />
+          <p className="mt-6 text-xl font-semibold text-center">PostgreSQL</p>
         </div>
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <DiGo color="#007D9C" className="mx-auto text-4xl " />
