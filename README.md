@@ -1,3 +1,6 @@
+# old website, now switched to [v2](https://github.com/nexxeln/nexxel.dev)
+# visit [here](https://nexxel.dev)
+
 ## Information
 
 This website was made using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com). It is hosted on [Vercel](https://vercel.com/).
